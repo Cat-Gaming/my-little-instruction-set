@@ -8,4 +8,6 @@ load a 0 # loads a to 0
 add_b a
 # and the value is moved yay
 
+wait # wait for user to press enter
+
 hlt # Halts the Machine
